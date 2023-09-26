@@ -1,0 +1,12 @@
+create own resume data json format.
+    
+  var student resume={
+"name":"jayakanth",
+"age:"29,
+"mail id":"jaihind814@gmail.com",
+"qulification":"BCA",
+"education inst":""dmi college",
+"position": "MERN STACK",
+"EXP": "TWO year",
+"company name":"guvi",
+}
